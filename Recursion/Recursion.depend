@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1581564256 source:c:\users\dayse\documents\cursos\estrutura_dados\recursion\indirectrecursion.c
+	<stdio.h>
+
+1581800937 source:c:\users\dayse\documents\cursos\estrutura_dados\recursion\nestedrecursion.c
+	<stdio.h>
+
+1581857249 source:c:\users\dayse\documents\cursos\estrutura_dados\recursion\taylorseries.c
+	<stdio.h>
+
+1581857215 source:c:\users\dayse\documents\cursos\estrutura_dados\recursion\fibinacci.c
+	<stdio.h>
+
