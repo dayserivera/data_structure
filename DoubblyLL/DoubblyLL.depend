@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588455503 source:c:\users\dayse\documents\cursos\data_structure\doubblyll\main.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+

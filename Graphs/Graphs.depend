@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1590862873 source:c:\users\dayse\documents\cursos\data_structure\graphs\main.c
+	<stdio.h>
+	"Queue.h"
+
+1590861028 c:\users\dayse\documents\cursos\data_structure\graphs\queue.h
+	<stdio.h>
+

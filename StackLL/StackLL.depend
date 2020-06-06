@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588721269 source:c:\users\dayse\documents\cursos\data_structure\stackll\main.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+

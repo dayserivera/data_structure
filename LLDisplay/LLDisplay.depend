@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588371346 source:c:\users\dayse\documents\cursos\data_structure\lldisplay\main.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+

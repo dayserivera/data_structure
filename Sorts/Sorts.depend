@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590330483 source:c:\users\dayse\documents\cursos\data_structure\sorts\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

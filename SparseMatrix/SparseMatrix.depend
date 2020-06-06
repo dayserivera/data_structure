@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1588025560 source:c:\users\dayse\documents\cursos\data_structure\sparsematrix\sparsematrix01.c
+	<stdio.h>
+	<stdlib.h>
+
+1587992670 source:c:\users\dayse\documents\cursos\data_structure\sparsematrix\sparsematrix02.cpp
+	<iostream>
+
+1588031473 source:c:\users\dayse\documents\cursos\data_structure\sparsematrix\polynomial.c
+	<stdio.h>
+	<stdlib.h>
+

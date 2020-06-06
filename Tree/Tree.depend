@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1589416187 source:c:\users\dayse\documents\cursos\data_structure\tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+	"Stack.h"
+
+1589166465 c:\users\dayse\documents\cursos\data_structure\tree\queue.h
+	<stdio.h>
+
+1589166465 source:c:\users\dayse\documents\cursos\data_structure\tree\queue.h
+	<stdio.h>
+
+1589327970 c:\users\dayse\documents\cursos\data_structure\tree\stack.h
+	"Queue.h"
+

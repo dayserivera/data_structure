@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1589244250 source:c:\users\dayse\documents\cursos\data_structure\treecpp\main.cpp
+	<iostream>
+	<stdio.h>
+	"QueueCpp.h"
+
+1589239582 c:\users\dayse\documents\cursos\data_structure\treecpp\queuecpp.h
+	<stdio.h>
+	<iostream>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1587818703 source:c:\users\dayse\documents\cursos\data_structure\matriz\matriz_01.c
+	<stdio.h>
+	<stdlib.h>
+
+1587901342 source:c:\users\dayse\documents\cursos\data_structure\matriz\matrix_02.cpp
+	<iostream>
+
+1587901390 source:c:\users\dayse\documents\cursos\data_structure\matriz\sparse_matrix_01.cpp
+
+1587903171 source:c:\users\dayse\documents\cursos\data_structure\matriz\diagonal.cpp
+

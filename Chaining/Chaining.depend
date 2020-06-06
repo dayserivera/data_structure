@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1590452448 source:c:\users\dayse\documents\cursos\data_structure\chaining\main.c
+	<stdio.h>
+	"Chains.h"
+
+1590453318 c:\users\dayse\documents\cursos\data_structure\chaining\chains.h
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+

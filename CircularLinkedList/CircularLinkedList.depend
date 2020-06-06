@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588424827 source:c:\users\dayse\documents\cursos\data_structure\circularlinkedlist\main.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+
